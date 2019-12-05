@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Dec 05 22:28:09 KGT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016e-d6e3-e132-000007b85340 
+on database directory memory:/home/ulan/IdeaProjects/beenavigator/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@77556fd 
+Loaded from file:/home/ulan/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=JetBrains s.r.o
+java.runtime.version=11.0.4+10-b520.11
+user.dir=/home/ulan/IdeaProjects/beenavigator
+os.name=Linux
+os.arch=amd64
+os.version=5.0.0-37-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
