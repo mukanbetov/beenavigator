@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6113c30e-18c9-4453-b503-b431bdcbff8c" name="Default Changelist" comment="" />
+    <list default="true" id="6113c30e-18c9-4453-b503-b431bdcbff8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -35,8 +41,10 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
@@ -82,6 +90,8 @@
       <updated>1575437039629</updated>
       <workItem from="1575437043575" duration="2182000" />
       <workItem from="1575439373052" duration="25000" />
+      <workItem from="1575457519580" duration="374000" />
+      <workItem from="1575516585955" duration="402000" />
     </task>
     <servers />
   </component>
@@ -93,6 +103,10 @@
       <screen x="67" y="27" width="3773" height="1053" />
     </state>
     <state x="2557" y="344" width="635" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.3773.1053@67.27.3773.1053" timestamp="1575438745165" />
+    <state x="743" y="297" width="424" height="484" key="FileChooserDialogImpl" timestamp="1575516979823">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state x="743" y="297" width="424" height="484" key="FileChooserDialogImpl/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1575516979823" />
     <state width="1874" height="354" key="GridCell.Tab.0.bottom" timestamp="1575438867967">
       <screen x="67" y="27" width="3773" height="1053" />
     </state>
@@ -141,10 +155,14 @@
       <screen x="67" y="27" width="3773" height="1053" />
     </state>
     <state width="1874" height="354" key="GridCell.Tab.2.right/67.27.3773.1053@67.27.3773.1053" timestamp="1575438867688" />
-    <state x="649" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1575449534338">
+    <state x="449" y="174" key="SettingsEditor" timestamp="1575516982822">
       <screen x="67" y="0" width="1853" height="1080" />
     </state>
-    <state x="649" y="362" key="com.intellij.ide.util.TipDialog/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1575449534338" />
+    <state x="449" y="174" key="SettingsEditor/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1575516982822" />
+    <state x="649" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1575516587624">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state x="649" y="362" key="com.intellij.ide.util.TipDialog/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1575516587624" />
     <state x="649" y="724" key="com.intellij.ide.util.TipDialog/67.0.1853.2160@67.0.1853.2160" timestamp="1575446661510" />
     <state x="2523" y="362" key="com.intellij.ide.util.TipDialog/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1575439389896" />
     <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575437043966" />
